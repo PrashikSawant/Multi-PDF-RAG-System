@@ -47,6 +47,7 @@ streamlit run app.py
 - Grouped context by document for clear citations
 
 ## 📁 Project Structure
+```bash
 day13-multi-pdf-rag/
 ├── app.py              # Streamlit UI, multiselect, modes
 ├── rag_engine.py       # Multi-doc RAG, $or filtering, compare
@@ -54,6 +55,17 @@ day13-multi-pdf-rag/
 ├── .env               # API key (not committed)
 ├── .gitignore         # Ignores .env, chroma_db, cache
 └── chroma_db/         # Auto-created, gitignored
+```
 
 ## 🔗 Part of 30-Day AI Engineering Bootcamp
 Day 13 of 30 | RAG & Vector Databases Phase
+
+---
+
+## 👨‍💻 About Me
+
+I am Prashik — an aspiring AI Engineer currently on a 4-month intensive
+journey to become job-ready in Generative AI Engineering.
+
+Follow my journey on [LinkedIn](https://www.linkedin.com/in/prashik-sawant-ds/)
+
