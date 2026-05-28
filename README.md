@@ -26,7 +26,7 @@ Full RAG pipeline with multi-document semantic search.
 ## 🚀 Setup & Run
 
 ### 1. Clone the repo
-git clone https://github.com/PrashikSawant/Multi-PDF-RAG-System
+git clone https://github.com/PrashikSawant/Multi-PDF-RAG-System\
 cd multi-pdf-rag
 
 ### 2. Install dependencies
